@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModernUI", "ModernUI\ModernUI.csproj", "{8C595451-211B-4823-95AE-0D592FB9FF11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialSkin", "MaterialSkin\MaterialSkin.csproj", "{9C1C7030-CD54-4665-96BB-FE04668AF6D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8C595451-211B-4823-95AE-0D592FB9FF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C595451-211B-4823-95AE-0D592FB9FF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C595451-211B-4823-95AE-0D592FB9FF11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C1C7030-CD54-4665-96BB-FE04668AF6D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1C7030-CD54-4665-96BB-FE04668AF6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1C7030-CD54-4665-96BB-FE04668AF6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1C7030-CD54-4665-96BB-FE04668AF6D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
